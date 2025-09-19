@@ -1,1 +1,1 @@
-print ('mamomu')
+print ('no mamomu')
